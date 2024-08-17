@@ -8,4 +8,4 @@ tbody{text-align: left;font-size: 15px;font-family: 'Gill Sans', 'Gill Sans MT',
 tfoot{text-align: left;font-size: 20px;font-family: 'Times New Roman', Times, serif;text-shadow:5px;}
 dl{padding: 5px;}
 dt{padding: 5px;text-align: left;font-size: 20px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;text-shadow:5px;}
-dd{text-align: left;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-size: 15px;text-shadow:5px;}
+dd{text-align: left;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-size: 15px;text-shadow:5px;padding: 5px;}
